@@ -1,3 +1,14 @@
+<div align="center">
+<img width="200" height="200" alt="memme Logo" src="https://github.com/user-attachments/assets/2320d022-f3da-481c-a669-bf775698e75a" />
+
+<h1>Memme - 나를 기억하고, 기록하세요</h1> 
+
+</div>
+
+### MEMME는 어떤 서비스인가요?
+
+> MEMME는 **"나 자신과 대화하듯 생각을 기록하고, 나중에 정리하는"** 개인 메모 앱입니다.
+
 ## 추후 업데이트 예정
 
 ## 👥 팀원 소개
